@@ -6,7 +6,8 @@
 
 1. Fundamentals
     - [AWS Regions](1-aws-fundamentals/regions.md)
-    - [AWS EC2](1-aws-fundamentals/ec2.md)
+    - [Well Architectured Framework](1-aws-fundamentals/well-architectured-framework.md)
+2. Deep Dive
     - [Elastic Load Balancers](1-aws-fundamentals/elb.md)
     - [Auto Scaling Groups](1-aws-fundamentals/asg.md)
     - [Elastic Block Storage](1-aws-fundamentals/ebs.md)
@@ -16,7 +17,7 @@
     - [ElastiCache](1-aws-fundamentals/elasticache.md)
     - [Amazon S3](1-aws-fundamentals/s3.md)
     - [Route 53](1-aws-fundamentals/route53.md)
-2. Deep Dive
+    - [AWS EC2](1-aws-fundamentals/ec2.md)
     - [Advanced S3](2-deep-dive/advanced-s3.md)
     - [AWS CLI, SDK, IAM Roles and Policies](2-deep-dive/cli.md)
     - [Classic Architecture Discussion](2-deep-dive/architecture.md)
@@ -61,8 +62,13 @@
     - [Other Services (OpsWorks, Elastic Transcoder, Workspaces, Appsync)](5-other-services/other.md)
     - [More Solutions Architecture](5-other-services/more-solutions-architecture.md)
 6. Whitepapers
-    - [Well Architectured Framework](6-whitepapers/well-architectured-framework.md)
     - [AWS Truster Advisor](6-whitepapers/trusted-advisor.md)
+
+
+
+
+
+
 
 ## Exam Description
 
