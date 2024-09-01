@@ -1,4 +1,4 @@
-![alt text](images/RegionAZLocalZone.png)
+![alt text](Images/RegionAZLocalZone.png)
 
 # AWS Regions
 - AWS Regions are clusters of data centers
@@ -15,7 +15,7 @@
 
 - **Cost**: Different Regions have different costs. Research the pricing for the services that you plan to use and compare costs to make the best decision for your workloads.
 
-![alt text](images/RegionSelection.png)
+![alt text](Images/RegionSelection.png)
 
 # AWS Availability Zones (AZ)
 
